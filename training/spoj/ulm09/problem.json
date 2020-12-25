@@ -1,0 +1,1 @@
+{"name": "Dark roads", "group": "SPOJ - Classical", "url": "https://www.spoj.com/problems/ULM09/", "interactive": false, "memoryLimit": 1536, "timeLimit": 1000, "tests": [], "testType": "single", "input": {"type": "stdin"}, "output": {"type": "stdout"}, "languages": {"java": {"mainClass": "Main", "taskClass": "DarkRoads"}}}
